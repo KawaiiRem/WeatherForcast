@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hoang.vu\\source\\repos\\WeatherForcast\\WeatherForcast\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang.vu\\source\\repos\\WeatherForcast\\WeatherForcast\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang.vu\\source\\repos\\WeatherForcast\\WeatherForcast\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang.vu\\source\\repos\\WeatherForcast\\WeatherForcast\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.WeatherForcast.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.WeatherForcast.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.build.WeatherForcast.props",
+      "PackagePath": "build\\WeatherForcast.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildMultiTargeting.WeatherForcast.props",
+      "PackagePath": "buildMultiTargeting\\WeatherForcast.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildTransitive.WeatherForcast.props",
+      "PackagePath": "buildTransitive\\WeatherForcast.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
